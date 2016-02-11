@@ -23,6 +23,6 @@ color:
     - '#c13a2e'
   brandStrength: 1
   lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
