@@ -4,7 +4,7 @@
         <description><![CDATA[COMODAA Projects]]></description>
         <link>https://thegrid.ai/comodaa-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 05:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 05:34:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/comodaa-projects/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Thu, 11 Feb 2016 05:29:06 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New Site Coming Soon]]></title>
-            <description><![CDATA[<article><h1>New Site Coming Soon</h1><p>New Site coming soon</p></article>]]></description>
+            <title><![CDATA[New Site coming soon]]></title>
+            <description><![CDATA[<article><h1>New Site coming soon</h1><p>We are busy working on a brand new whizz-bang site so please come back soon</p></article>]]></description>
             <link>https://thegrid.ai/comodaa-projects/new-site-coming-soon/index.html</link>
             <guid isPermaLink="false">d33e995d-a947-40fe-8716-5573e860f11e</guid>
-            <pubDate>Thu, 11 Feb 2016 05:06:06 GMT</pubDate>
+            <pubDate>Thu, 11 Feb 2016 05:33:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
