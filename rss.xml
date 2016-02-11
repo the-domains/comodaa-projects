@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[COMODAA Projects]]></title>
         <description><![CDATA[COMODAA Projects]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/comodaa-projects/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 05:06:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Feb 2016 05:29:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/comodaa-projects/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Artists</p>]]></description>
+            <link>https://thegrid.ai/comodaa-projects/f12d13c0-1268-4a53-8fc2-912b6c596312/index.html</link>
+            <guid isPermaLink="false">f12d13c0-1268-4a53-8fc2-912b6c596312</guid>
+            <pubDate>Thu, 11 Feb 2016 05:29:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Site Coming Soon]]></title>
             <description><![CDATA[<article><h1>New Site Coming Soon</h1><p>New Site coming soon</p></article>]]></description>
-            <link>undefinednew-site-coming-soon/index.html</link>
+            <link>https://thegrid.ai/comodaa-projects/new-site-coming-soon/index.html</link>
             <guid isPermaLink="false">d33e995d-a947-40fe-8716-5573e860f11e</guid>
             <pubDate>Thu, 11 Feb 2016 05:06:06 GMT</pubDate>
         </item>
