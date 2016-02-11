@@ -1,0 +1,28 @@
+name: COMODAA Projects
+favicon: null
+layout_spectrum: 0.3692884480115026
+typography_spectrum: 0.8888496707659215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#606163'
+    - '#be9f95'
+    - '#2e2863'
+    - '#c13a2e'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0
+purpose: []
